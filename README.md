@@ -5,7 +5,7 @@
 
 ## :clipboard: About the project
 
-Simple clone of the Twitch UI showing a main screen with live streamers and games. Come on see the [final result](https://dribbble.com/)
+Simple clone of the Twitch UI showing a main screen with live streamers and games. Come on see the [final result](https://jhonywalker-pixel.github.io/twitch-interface/)
 
 ## :computer: Languages used
 
