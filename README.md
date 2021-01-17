@@ -7,7 +7,7 @@
 
 Simple clone of the Twitch UI showing a main screen with live streamers and games. Come on see the [final result](https://jhonywalker-pixel.github.io/twitch-interface/)
 
-## :computer: Languages used
+## :computer: Used languages
 
 The cool thing is that this project only used CSS putting GRID into practice
 
